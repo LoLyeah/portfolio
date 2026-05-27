@@ -8,7 +8,7 @@ Deployed at: **[lolyeah.vercel.app](https://lolyeah.vercel.app)**
 
 ## 🚀 Key Projects
 
-- **Anesthesia:** An advanced, high-performance clinical anesthesia dosage calculator and tracking assistant.
+- **Anesthesia:** A state-of-the-art, AI-powered clinical assistant suite featuring diagnostic symptom tools, interactive body maps, PDF exports, and structured medical references.
 - **DataSight:** A modern data exploration and interactive visualization dashboard tool.
 - **MedQuiz:** An educational frontend clinical and medical quiz application.
 - **Mandelbulb:** A high-performance 3D fractal generator and math visualizer utilizing raymarching.
