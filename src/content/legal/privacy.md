@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-date: "03/07/2024"
+date: "05/27/2026"
 ---
 
 This Privacy Policy governs the manner in which LoLyeah collects, uses, maintains, and discloses information collected from users (each, a "User") of the https://lolyeah.vercel.app website ("Site"). This privacy policy applies to the Site and all products and services offered by LoLyeah.

@@ -1,7 +1,7 @@
 ---
 title: "Anesthesia"
 summary: "An advanced, high-performance clinical anesthesia calculator and tracking system."
-date: "Feb 20 2025"
+date: "May 26 2026"
 draft: false
 tags:
 - TypeScript

@@ -1,7 +1,7 @@
 ---
 title: "MedQuiz"
 summary: "An interactive, web-based clinical and medical quiz application."
-date: "Nov 10 2024"
+date: "May 05 2026"
 draft: false
 tags:
 - TypeScript

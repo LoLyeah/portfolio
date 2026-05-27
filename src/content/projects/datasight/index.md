@@ -1,7 +1,7 @@
 ---
 title: "DataSight"
 summary: "A modern data exploration and interactive visualization tool."
-date: "Jan 15 2025"
+date: "May 05 2026"
 draft: false
 tags:
 - TypeScript

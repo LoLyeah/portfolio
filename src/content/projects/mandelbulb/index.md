@@ -1,7 +1,7 @@
 ---
 title: "Mandelbulb"
 summary: "A high-performance 3D fractal generator and math visualizer."
-date: "Sep 05 2024"
+date: "Apr 21 2026"
 draft: false
 tags:
 - TypeScript

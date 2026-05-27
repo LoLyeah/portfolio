@@ -1,6 +1,6 @@
 ---
 title: "Terms of Use"
-date: "03/07/2024"
+date: "05/27/2026"
 ---
 
 Please read these Terms of Use ("Terms", "Terms of Use") carefully before using the https://lolyeah.vercel.app website (the "Service") operated by LoLyeah ("us", "we", or "our").
