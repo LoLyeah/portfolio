@@ -1,0 +1,10 @@
+---
+import PageLayout from "@layouts/PageLayout.astro";
+import DemoOne from "@/components/ui/demo";
+---
+
+<PageLayout title="Shader Demo" description="Interactive WebGL Shader and Liquid Glass Button demo">
+  <div class="relative min-h-[85vh] flex items-center justify-center">
+    <DemoOne client:only="react" />
+  </div>
+</PageLayout>
