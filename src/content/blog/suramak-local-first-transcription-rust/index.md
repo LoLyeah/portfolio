@@ -15,7 +15,7 @@ Automatic Speech Recognition (ASR) has seen tremendous breakthroughs over the la
 
 On the other hand, running local transcription often means dealing with hefty Python runtime environments, multi-gigabyte dependency trees, high thermal throttling, and sluggish UI wrappers.
 
-**Suramak** was built to solve this: a native, local-first, privacy-respecting transcription application engineered from the ground up in **Rust** using `egui` and `whisper.cpp` (via `whisper-rs`).
+**[Suramak](https://github.com/LoLyeah/suramak)** (see the [portfolio project showcase](/projects/suramak)) was built to solve this: a native, local-first, privacy-respecting transcription application engineered from the ground up in **Rust** using `egui` and `whisper.cpp` (via `whisper-rs`).
 
 Here is an architectural deep dive into how Suramak delivers instant, private transcription on macOS and beyond.
 
@@ -99,6 +99,9 @@ Finally, transcripts can be exported instantly to timestamped **Markdown**, clea
 
 ---
 
-### Conclusion
+### Conclusion & Project Links
 
 Suramak demonstrates that you do not need to sacrifice speed, elegance, or user privacy to build modern AI software. By combining Rust's zero-cost abstractions, native macOS audio hooks, and whisper.cpp's optimized inference kernels, local-first computing can deliver an experience that feels instantaneous, robust, and dependable.
+
+- **GitHub Repository**: [github.com/LoLyeah/suramak](https://github.com/LoLyeah/suramak)
+- **Portfolio Showcase**: [View Suramak in Projects](/projects/suramak)

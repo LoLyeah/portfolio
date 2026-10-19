@@ -15,7 +15,7 @@ Downloading web media in the modern streaming era is deceptively challenging. We
 
 Most existing download tools either lock users into single-purpose command-line utilities, package bloated electron wrappers, or compromise user privacy with ad-heavy browser add-ons. 
 
-With **suravidl**, the goal was to build a unified, high-performance video downloader engine: an extensible core built on **Python**, **FastAPI**, and **yt-dlp**, paired with lightweight client shells across Chrome/Edge/Firefox extensions, desktop executables, and native Android.
+With **[suravidl](https://github.com/LoLyeah/suravidl)** (see the [portfolio project showcase](/projects/suravidl)), the goal was to build a unified, high-performance video downloader engine: an extensible core built on **Python**, **FastAPI**, and **yt-dlp**, paired with lightweight client shells across Chrome/Edge/Firefox extensions, desktop executables, and native Android.
 
 Here is a technical walkthrough of how suravidl was architected and the engineering principles behind its features.
 
@@ -114,6 +114,9 @@ Rather than forcing users to operate solely through a web browser tab, `suravidl
 
 ---
 
-### Conclusion
+### Conclusion & Project Links
 
 By decoupling extraction logic into a robust FastAPI service and pairing it with targeted client integrations, `suravidl` transforms the fragmented landscape of video downloading into a reliable, automated, and user-controlled media pipeline.
+
+- **GitHub Repository**: [github.com/LoLyeah/suravidl](https://github.com/LoLyeah/suravidl)
+- **Portfolio Showcase**: [View suravidl in Projects](/projects/suravidl)
