@@ -4,6 +4,7 @@ summary: "An all-in-one, zero-latency clinical decision support & acute care das
 date: "Oct 22 2026"
 draft: false
 tags:
+- "v2.4.0"
 - TypeScript
 - Next.js 16 (Turbopack)
 - PWA / Offline IndexedDB
@@ -13,7 +14,7 @@ tags:
 repoUrl: https://github.com/rizqihan/Anesthesia
 ---
 
-**Anesthesia** is a universal, zero-latency clinical decision support and point-of-care medical suite for physicians, residents, intensivists, and healthcare professionals across all specialties.
+**Anesthesia** (v2.4.0 — *Clinical Precision & Emergency Resilience*) is a universal, zero-latency clinical decision support and point-of-care medical suite for physicians, residents, intensivists, and healthcare professionals across all specialties.
 
 Built with **Next.js 16 (App Router with Turbopack)**, **Tailwind CSS 4**, and **Dexie IndexedDB**, it unifies disparate bedside tools—traditionally fragmented across MDCalc, Epocrates, ASRA Coags, UpToDate, and ultrasound carts—into a single, privacy-first, **100% offline-capable Progressive Web Application (PWA)** that runs directly in the browser with zero cloud round-trips.
 
